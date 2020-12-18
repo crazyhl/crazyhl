@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
 
 **Languages and Tools:**  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>   
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast)
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html&theme=highcontrast)
