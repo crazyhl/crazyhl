@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Chris Hao](https://www.cimple.ink/)  👋
 
 <!--
 **crazyhl/crazyhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on [gopermission](https://github.com/crazyhl/gopermission)
+- 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>   
+
+![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html&layout=compact&theme=highcontrast)
