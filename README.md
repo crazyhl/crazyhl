@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">
