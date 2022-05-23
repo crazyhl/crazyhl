@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on [gopermission](https://github.com/crazyhl/gopermission)
+- 👯 I’m looking to collaborate on [yzyx-materials](https://github.com/crazyhl/yzyx-materials)
 - 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
 
 **Languages and Tools:**  
