@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast&local=cn)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html&theme=highcontrast)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html&theme=highcontrast&local=cn)
