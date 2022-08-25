@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
 
 **Languages and Tools:**  
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+![Windows](https://img.shields.io/badge/-Go-0078D6?style=flat-square&logo=go&logoColor=white)
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png">
