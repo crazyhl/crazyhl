@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
 
 **Languages and Tools:**  
-![Windows](https://img.shields.io/badge/-Go-0078D6?style=flat-square&logo=go&logoColor=white)
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
+![php](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue&logoColor=white)
+![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![k8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast&locale=cn)
 
