@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast&locale=cn)
+![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,less,html,blade,css&theme=highcontrast&locale=cn)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,less,html,blade,css&theme=highcontrast)
