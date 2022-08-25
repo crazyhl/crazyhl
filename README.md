@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=crazyhl&show_icons=true&theme=highcontrast&locale=cn)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html,blade&theme=highcontrast&locale=cn)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhl&hide=javascript,html,blade,css&theme=highcontrast&locale=cn)
