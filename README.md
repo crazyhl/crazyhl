@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on [cimple-admin/forms](https://github.com/cimple-admin/forms)
+- 👯 I’m looking to collaborate on [cimple-admin/cms](https://github.com/cimple-admin/cms)
 - 💬 Ask me about anything [here](https://github.com/crazyhl/crazyhl/issues)
 
 **Languages and Tools:**  
